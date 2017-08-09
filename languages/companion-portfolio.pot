@@ -1,0 +1,137 @@
+# Copyright (C) 2016 Companion Portfolio
+# This file is distributed under the same license as the Companion Portfolio package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Companion Portfolio 1.5.1001\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/companion-"
+"portfolio\n"
+"POT-Creation-Date: 2016-05-19 20:09:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: companion_portfolio.php:46 companion_portfolio.php:47
+msgid "Portfolio"
+msgstr ""
+
+#: companion_portfolio.php:48 companion_portfolio.php:50
+msgid "New Project"
+msgstr ""
+
+#: companion_portfolio.php:49
+msgid "Add New Project"
+msgstr ""
+
+#: companion_portfolio.php:51
+msgid "All Projects"
+msgstr ""
+
+#: companion_portfolio.php:52
+msgid "Search Projects"
+msgstr ""
+
+#: companion_portfolio.php:53
+msgid "No projects found"
+msgstr ""
+
+#: companion_portfolio.php:54
+msgid "No projects found in Trash"
+msgstr ""
+
+#: companion_portfolio.php:55
+msgid "Edit Project"
+msgstr ""
+
+#: companion_portfolio.php:56
+msgid "View Project"
+msgstr ""
+
+#: companion_portfolio.php:85
+msgid "Categories"
+msgstr ""
+
+#: companion_portfolio.php:86
+msgid "Categorie"
+msgstr ""
+
+#: companion_portfolio.php:138
+msgid "Website URL"
+msgstr ""
+
+#: companion_portfolio.php:154
+msgid ""
+"When an URL is filled this portfolio item will link to the website, "
+"otherwise it will redirect to a page."
+msgstr ""
+
+#: companion_portfolio.php:288
+msgid "Oops: No projects where found"
+msgstr ""
+
+#: companion_portfolio.php:374
+msgid "Save"
+msgstr ""
+
+#: companion_portfolio.php:466
+msgid "Settings"
+msgstr ""
+
+#: companion_portfolio.php:479
+msgid "Portfolio Widget"
+msgstr ""
+
+#: companion_portfolio.php:485
+msgid "Show latest projects."
+msgstr ""
+
+#: companion_portfolio.php:484
+msgid "Title"
+msgstr ""
+
+#: companion_portfolio.php:485
+msgid "Author"
+msgstr ""
+
+#: companion_portfolio.php:486
+msgid "Date"
+msgstr ""
+
+#: companion_portfolio.php:512
+msgid "Latest Projects"
+msgstr ""
+
+#: companion_portfolio.php:515
+msgid "Category"
+msgstr ""
+
+#: companion_portfolio.php:523
+msgid "Number of projects to show"
+msgstr ""
+
+#: companion_portfolio.php:525
+msgid "Display project date?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Companion Portfolio"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Companion Portfolio 1.5.1001)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Companion Portfolio 1.5.1001)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://qreative-web.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A fully responsive portfolio plugin, looking sharp on every device! Easy to "
+"use and fully configurable."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Qreative Web"
+msgstr ""
